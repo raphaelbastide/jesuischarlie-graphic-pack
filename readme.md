@@ -8,6 +8,7 @@ Contains:
 - #JeSuisCharlie SVG sources
 - PDF vector document ready to print
 - Charlie Hebdo Logo
+- Badge boards (8.6cm × 5.3cm)
 
 Original JeSuisCharlie image by Joachim Roncin @joachimroncin
 Thanks to @fabmous @ecogex @camilleghirne
