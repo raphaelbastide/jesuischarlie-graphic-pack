@@ -1,6 +1,8 @@
 # JeSuisCharlie Graphic Pack
 
-<img src="https://rawgit.com/raphaelbastide/jesuischarlie-graphic-pack/master/jesuischarlie.svg">
+[DOWNLOAD IT HERE](https://github.com/raphaelbastide/jesuischarlie-graphic-pack/archive/master.zip)
+
+<a href="https://github.com/raphaelbastide/jesuischarlie-graphic-pack/archive/master.zip"><img src="https://rawgit.com/raphaelbastide/jesuischarlie-graphic-pack/master/jesuischarlie.svg"></a>
 
 Contains:
 - #JeSuisCharlie SVG sources
